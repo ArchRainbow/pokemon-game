@@ -1,7 +1,11 @@
-# pokemon-game
+# Who's that Pokemon?
 
 This Pokemon Game was made following a course on Udemy with the purpose of learning Vue.
 Link of the course: https://www.udemy.com/course/vuejs-fh/
+
+## Demo
+
+Link to the page: https://pokemon-guessinggame.netlify.app/
 
 ## Project Setup
 
