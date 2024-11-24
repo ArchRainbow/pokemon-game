@@ -1,0 +1,21 @@
+html,
+body {
+  background-color: #f1f1f1;
+  margin: 0;
+}
+button {
+  background-color: white;
+  border-radius: 0.25rem;
+  border: 1px solid rgba(94, 10, 5, 0.88);
+  cursor: pointer;
+  color: black;
+  font-family: system-ui;
+  font-size: 1rem;
+  margin-bottom: 0.625rem;
+  padding: 0.5rem;
+  width: 16.75rem;
+}
+
+button:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
